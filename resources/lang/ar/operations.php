@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'inserting_successfuly' => 'تم اضافة ال:item بنجاح',
+  'updating_successfuly' => 'تم تعديل ال:item بنجاح',
+  'deleting_successfuly' => 'تم حذف ال:item بنجاح',
+  'enter_field' => 'ادخل :field',
+  'select_image' => 'اختر صورة',
+  'change' => 'تغيير',
+  'remove' => 'ازالة',
+  'add' => 'اضافة',
+  'set_empty_if_not_want_change' => 'اتركها فارغاً اذا كنت لا تريد تغيير :field الحالي',
+  'edit' => 'تعديل',
+  'view' => 'عرض',
+  'delete' => 'حذف',
+  'change_password' => 'تغيير كلمة المرور',
+  'overview' => 'نظرة عامة',
+  'save' => 'صنف',
+  'cancel' => 'الغاء الأمر',
+  'back' => 'رجوع',
+  'send' => 'ارسال',
+  'refresh' => 'تحديث',
+  'reset' => 'اعادة تعيين',
+  'search' => 'بحث',
+  'actions' => 'العمليات',
+  'select' => 'اختر',
+);
